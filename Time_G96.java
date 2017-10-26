@@ -1,9 +1,6 @@
 
 /**
- * Write a description of class Time_G96 here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * 用于计算G96恒速度切削端面时的时间
  */
 import java.lang.Math;
 public class Time_G96
